@@ -1,17 +1,25 @@
 import React from 'react';
-import { BsTwitter, BsInstagram } from 'react-icons/bs';
-import { FaFacebookF } from 'react-icons/fa';
+import { BsLinkedin } from 'react-icons/bs';
+import { AiFillGithub } from 'react-icons/ai';
+import { BsPaperclip } from 'react-icons/bs';
+import resume from '../assets/resume/Caroline_Kyle_2022.pdf'
 
 const SocialMedia = () => (
   <div className="app__social">
     <div>
-      <BsTwitter />
+      <a href="https://www.linkedin.com/in/ckyle121/">
+        <BsLinkedin />
+      </a>
     </div>
     <div>
-      <FaFacebookF />
+      <a href="https://github.com/ckyle121">
+        <AiFillGithub />
+      </a>
     </div>
     <div>
-      <BsInstagram />
+      <a href={resume} target="_blank" rel="noopener noreferrer">
+        <BsPaperclip />
+      </a>
     </div>
   </div>
 );
