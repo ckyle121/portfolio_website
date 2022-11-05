@@ -8,6 +8,7 @@ import flutter from '../assets/flutter.png';
 import git from '../assets/git.png';
 import graphql from '../assets/graphql.png';
 import html from '../assets/html.png';
+import java from '../assets/java.png';
 import javascript from '../assets/javascript.png';
 import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
@@ -46,6 +47,7 @@ export default {
   git,
   graphql,
   html,
+  java,
   javascript,
   mu5,
   node,
