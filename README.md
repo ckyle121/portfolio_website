@@ -5,4 +5,4 @@ Hi there, welcome to my GitHub repository for my portfolio website! Find out mor
 https://carolinekyle.netlify.app/
 
 ### HomePage View
-![image](https://user-images.githubusercontent.com/75647359/167912595-1c7963cf-f10a-4462-8acf-60b75963aac9.png)
+![image](https://user-images.githubusercontent.com/75647359/223307714-10e347ee-ffb1-4620-8ace-f9570b2deace.png)
